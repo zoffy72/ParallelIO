@@ -1,2 +1,2 @@
-# ParallelIO
-Here is the English translation of the project description, tailored for a simple C++ parallel computing and IO demo.
+# C++ Parallel&IO
+This project is a lightweight introductory example designed to visually demonstrate how to combine parallel computing with file input/output (IO) operations in C++.
